@@ -1,0 +1,4 @@
+/home/jwb/Documents/webApps/task-manager-project/backend/src/main/java/com/ToDoing/TaskManager/TaskManagerApplication.java
+/home/jwb/Documents/webApps/task-manager-project/backend/src/main/java/com/ToDoing/TaskManager/controller/TaskController.java
+/home/jwb/Documents/webApps/task-manager-project/backend/src/main/java/com/ToDoing/TaskManager/model/Task.java
+/home/jwb/Documents/webApps/task-manager-project/backend/src/main/java/com/ToDoing/TaskManager/repository/TaskRepository.java
